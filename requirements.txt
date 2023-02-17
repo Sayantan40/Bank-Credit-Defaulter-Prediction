@@ -7,5 +7,4 @@ PyYAML
 evidently
 dill
 matplotlib
-types-PyYAML
 -e .
