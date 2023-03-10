@@ -58,3 +58,7 @@ https://user-images.githubusercontent.com/88722031/220371987-a06a57d0-3779-40fe-
 https://kl-rtba.onrender.com
 
 ### The Application is slow because of being a free tier usage
+
+
+# Project Notebooks for Testing and Experimentation:
+[Notebooks](https://github.com/Sayantan40/Bank-Credit-Defaulter-Prediction/blob/master/research/Credit%20Card%20Default%20EDA%20%26%20Prediction.ipynb)
